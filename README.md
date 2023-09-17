@@ -1,6 +1,6 @@
 # arXiv Data Analysis
 
- <span style="color:red;"> work in progress</span>
+#### -------------- work in progress -------------------------
 
 arXiv (https://arxiv.org) is a website created by Cornell University hosting over 2 million open-access scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics.
 
