@@ -1,0 +1,39 @@
+archive_id,group_name,class_name
+dg-ga,math,Mathematics
+nucl-ex,ph,Physics
+q-fin,q-fin,Quantitative Finance
+q-alg,math,Mathematics
+chem-ph,ph,Physics
+chao-dyn,ph,Physics
+acc-phys,ph,Physics
+hep-th,ph,Physics
+plasm-ph,ph,Physics
+nlin,ph,Physics
+cmp-lg,cs,Computer Science
+math,math,Mathematics
+comp-gas,ph,Physics
+quant-ph,ph,Physics
+hep-lat,ph,Physics
+q-bio,q-bio,Quantitative Biology
+stat,stat,Statistics
+patt-sol,ph,Physics
+mtrl-th,ph,Physics
+math-ph,math,Mathematics
+solv-int,ph,Physics
+econ,econ,Economics
+adap-org,ph,Physics
+alg-geom,math,Mathematics
+cond-mat,ph,Physics
+supr-con,ph,Physics
+astro-ph,ph,Physics
+hep-ex,ph,Physics
+eess,eess,Electrical Engineering and Systems Science
+cs,cs,Computer Science
+nucl-th,ph,Physics
+physics,ph,Physics
+funct-an,math,Mathematics
+atom-ph,ph,Physics
+ao-sci,ph,Physics
+bayes-an,ph,Physics
+hep-ph,ph,Physics
+gr-qc,ph,Physics
